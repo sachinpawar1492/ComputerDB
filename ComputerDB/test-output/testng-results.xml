@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[New computer added successfully.]]>
+    </line>
+    <line>
+      <![CDATA[Computer data read successfully.]]>
+    </line>
+    <line>
+      <![CDATA[Computer details updated successfully.]]>
+    </line>
+    <line>
+      <![CDATA[Computer deleted successfully.]]>
+    </line>
+    <line>
+      <![CDATA[New computer added successfully.]]>
+    </line>
+    <line>
+      <![CDATA[Computer details updated successfully.]]>
+    </line>
+    <line>
+      <![CDATA[Computer deleted successfully.]]>
+    </line>
+    <line>
+      <![CDATA[Text field highlighted while saving computer with wrong date format.]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="101841" started-at="2017-03-28T07:12:48Z" finished-at="2017-03-28T07:14:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="101841" started-at="2017-03-28T07:12:48Z" finished-at="2017-03-28T07:14:30Z">
+      <class name="mainDriver.DriverScript">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:mainDriver.DriverScript@174d20a]" name="beforeMethod" is-config="true" duration-ms="3531" started-at="2017-03-28T09:12:48Z" finished-at="2017-03-28T09:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="main()[pri:0, instance:mainDriver.DriverScript@174d20a]" name="main" duration-ms="98216" started-at="2017-03-28T09:12:52Z" finished-at="2017-03-28T09:14:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[New computer added successfully.]]>
+            </line>
+            <line>
+              <![CDATA[Computer data read successfully.]]>
+            </line>
+            <line>
+              <![CDATA[Computer details updated successfully.]]>
+            </line>
+            <line>
+              <![CDATA[Computer deleted successfully.]]>
+            </line>
+            <line>
+              <![CDATA[New computer added successfully.]]>
+            </line>
+            <line>
+              <![CDATA[Computer details updated successfully.]]>
+            </line>
+            <line>
+              <![CDATA[Computer deleted successfully.]]>
+            </line>
+            <line>
+              <![CDATA[Text field highlighted while saving computer with wrong date format.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:mainDriver.DriverScript@174d20a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-03-28T09:14:30Z" finished-at="2017-03-28T09:14:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- mainDriver.DriverScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

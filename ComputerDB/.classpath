@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="F:/WGD/Dep 236594 IT SOLUTIONS OFFICE/Dep 236594 IT SOLUTIONS OFFICE/Infosys - Restored/Infosys/Infosys - Restored/Sachin/SeleniumDriver/selenium-server-standalone-3.3.1.jar"/>
+	<classpathentry kind="lib" path="F:/WGD/Dep 236594 IT SOLUTIONS OFFICE/Dep 236594 IT SOLUTIONS OFFICE/Infosys - Restored/Infosys/Infosys - Restored/Sachin/SeleniumDriver/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="F:/WGD/Dep 236594 IT SOLUTIONS OFFICE/Dep 236594 IT SOLUTIONS OFFICE/Infosys - Restored/Infosys/Infosys - Restored/Sachin/SeleniumDriver/testng-6.11.jar"/>
+	<classpathentry kind="lib" path="F:/WGD/Dep 236594 IT SOLUTIONS OFFICE/Dep 236594 IT SOLUTIONS OFFICE/Infosys - Restored/Infosys/Infosys - Restored/Sachin/SeleniumDriver/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="F:/WGD/Dep 236594 IT SOLUTIONS OFFICE/Dep 236594 IT SOLUTIONS OFFICE/Infosys - Restored/Infosys/Infosys - Restored/Sachin/SeleniumDriver/xmlbeans-xmlpublic-2.4.0.jar"/>
+	<classpathentry kind="lib" path="F:/WGD/Dep 236594 IT SOLUTIONS OFFICE/Dep 236594 IT SOLUTIONS OFFICE/Infosys - Restored/Infosys/Infosys - Restored/Sachin/SeleniumDriver/poi-ooxml-schemas-3.7-beta1.jar"/>
+	<classpathentry kind="lib" path="F:/WGD/Dep 236594 IT SOLUTIONS OFFICE/Dep 236594 IT SOLUTIONS OFFICE/Infosys - Restored/Infosys/Infosys - Restored/Sachin/SeleniumDriver/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/WGD/Dep 236594 IT SOLUTIONS OFFICE/Dep 236594 IT SOLUTIONS OFFICE/Infosys - Restored/Infosys/Infosys - Restored/Sachin/SeleniumDriver/xbean-2.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/WGD/Dep 236594 IT SOLUTIONS OFFICE/Dep 236594 IT SOLUTIONS OFFICE/Infosys - Restored/Infosys/Infosys - Restored/Sachin/SeleniumDriver/poi-ooxml-3.9.jar" sourcepath="poi-ooxml-3.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
